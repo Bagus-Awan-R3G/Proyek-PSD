@@ -1,7 +1,0 @@
-program nyoba;
-var
-a: String;
-begin
-    write ('masukan nama anda');
-    readln(a);
-end;
